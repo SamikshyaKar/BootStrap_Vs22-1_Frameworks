@@ -169,8 +169,10 @@
     <Content Include="BootStrap5\NewBootStrap\js\src\util\sanitizer.min.js" />
     <Content Include="BootStrap5\NewBootStrap\js\src\util\scrollbar.js" />
     <Content Include="BootStrap5\NewBootStrap\js\src\util\scrollbar.min.js" />
+    <Content Include="CSS\CustomStylesheet.css" />
     <Content Include="HTML_Pages-Bootstrap\Bootstrap2.html" />
     <Content Include="HTML_Pages-Bootstrap\Bootstrap1.html" />
+    <Content Include="HTML_Pages-Bootstrap\BootStrap3.html" />
     <Content Include="Images\Flower7.jpg" />
     <Content Include="Images\Flower8.jpg" />
     <Content Include="Images\Flower9.jpg" />
